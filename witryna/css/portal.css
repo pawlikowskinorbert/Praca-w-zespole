@@ -17,3 +17,13 @@ body {
     padding: 0 2%;
     margin: 0 auto;
 }
+
+.hero {
+    padding: 50px 0px;
+    background-color: var(--color-400);
+    color: #fff;
+}
+
+.hero p {
+    color: var(--color-100)
+}
