@@ -17,3 +17,13 @@ body {
     padding: 0 2%;
     margin: 0 auto;
 }
+
+.categories {
+    padding: 50px 0px;
+    background-color: var(--color-200);
+}
+
+.categories i {
+    color: var(--color-400);
+    font-size: 3rem;
+}
