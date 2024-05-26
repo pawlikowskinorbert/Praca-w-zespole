@@ -17,3 +17,41 @@ body {
     padding: 0 2%;
     margin: 0 auto;
 }
+
+.authors {
+    background-color: var(--color-100);
+    padding: 50px 0px;
+}
+
+.authors h2 {
+    color: var(--color-400);
+    font-weight: bold;
+    padding-left: 1em;
+}
+
+.authors p {
+    font-size: 1.4em;
+    font-style: italic;
+    padding: 2em 2%;
+}
+
+.authors .carousel .carousel-indicators {
+    left: 0;
+    margin-left: 0;
+    width: 100%;
+    text-align: right;
+    bottom: 0;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    background: #fff;
+}
+
+.carousel-indicators .active {
+    width: 17px;
+    height: 17px;
+    background: #000;
+    border: 3px solid #fff;
+}
