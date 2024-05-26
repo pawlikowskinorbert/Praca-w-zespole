@@ -1,6 +1,6 @@
 # Praca w zespole
 ## Witryna ćwiczeniowa
-**Grupa nr X**
+**Grupa nr 4**
 - Norbert Pawlikowski – kierownik
 - Kacper Pasikowski
 - Kacper Marcinkowski
